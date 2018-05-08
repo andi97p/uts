@@ -1,0 +1,33 @@
+.textfield {
+ width: 300px;
+ height: 40px;
+ font-family: "Arial Black", Gadget, sans-serif;
+ color: #000;
+ border: 1px double #09F;
+}
+.textfield:hover {
+ width: 300px;
+ height: 40px;
+ font-family: "Arial Black", Gadget, sans-serif;
+ color: #000;
+ border: 1px double #09F;
+ background-color: #CCC;
+}
+.buttonform {
+ font-family: "Arial Black", Gadget, sans-serif;
+ color: #FFF;
+ background-color: #09F;
+ width: 150px;
+ height: 65px;
+ font-size: 18px;
+}
+.buttonform:hover {
+ font-family: "Arial Black", Gadget, sans-serif;
+ color: #FFF;
+ background-color: #333;
+ width: 150px;
+ height: 65px;
+ font-size: 18px;
+ border: 2px solid #09F;
+}
+</style>
